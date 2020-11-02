@@ -23,11 +23,11 @@ var data = [
     { "value": 1, "task": "Set goals and make them a reality" },
     { "value": 1, "task": "Pick up a new hobby" },
     { "value": 1, "task": "Help your parents" },
-    { "value": 1, "task": "Learn how to make a new dish" },
-    { "value": 1, "task": "Keep away from electronic gadgets for at least an hour" },
+    { "value": 1, "task": "Learn how to prepare a new dish" },
+    { "value": 1, "task": "Keep away from electronic gadgets for at least 3 hours" },
     { "value": 1, "task": "Improve your communication skills" },
     { "value": 1, "task": "Self Reflect" },
-    { "value": 1, "task": "Explore your creative side" },
+    { "value": 1, "task": "Keep up with the latest news" },
 ];
 
 
